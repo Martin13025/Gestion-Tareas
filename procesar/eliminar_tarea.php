@@ -10,7 +10,7 @@ $usuario = $_SESSION['usuario'];
 
 if (isset($_SESSION['tareas'][$usuario][$id])) {
     unset($_SESSION['tareas'][$usuario][$id]);
-    // Переиндексация массива
+
     $_SESSION['tareas'][$usuario] = array_values($_SESSION['tareas'][$usuario]);
 }
 header("Location: ../index.php?page=tareas");
