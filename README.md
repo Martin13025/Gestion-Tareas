@@ -1,5 +1,7 @@
 # Gestion-Tareas
-Task Management. Task Management Application.
+Task Management. Task Management Application. 
+
+PHP + HTML + Bootstrap
 
 Instructions: <br/><hr/>
 ![Ex1](https://github.com/user-attachments/assets/921b40e1-f6ae-4f28-bb48-14fa90008d1a)
