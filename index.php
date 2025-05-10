@@ -9,7 +9,6 @@ $viewPath = __DIR__ . "/views/{$page}.php";
   <meta charset="UTF-8">
   <title>Gestor de Tareas</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Bootstrap CSS (v5) -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -26,7 +25,6 @@ $viewPath = __DIR__ . "/views/{$page}.php";
     ?>
   </div>
 
-  <!-- Bootstrap JS Bundle -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
